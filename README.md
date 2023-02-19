@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-zzahrae&show_icons=true&locale=en" alt="fatima-zzahrae" /></p>
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae&" alt="fatima-zzahrae" /></p>
+<br/><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatima-zzahrae" alt="fatima-zzahrae" /></a> </p>
