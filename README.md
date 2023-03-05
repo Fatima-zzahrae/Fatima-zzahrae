@@ -21,6 +21,7 @@
 </p>
 <br/><br/>
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatima-zzahrae&show_icons=true&locale=en" alt="fatima-zzahrae" /></p>
+<br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae&" alt="fatima-zzahrae" /></p>
 <br/><br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatima-zzahrae" alt="fatima-zzahrae" /></a> </p>
