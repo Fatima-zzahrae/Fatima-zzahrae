@@ -21,8 +21,8 @@
 <a href="https://twitter.com/fatiiimazzahrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatiiimazzahrae" height="30" width="40" /></a>
 </p>
 <br/><br/>
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatima-zzahrae&show_icons=true&locale=en" alt="fatima-zzahrae" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae&" alt="fatima-zzahrae" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/><br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatima-zzahrae" alt="fatima-zzahrae" /></a> </p>
