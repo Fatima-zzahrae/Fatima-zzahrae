@@ -25,3 +25,6 @@
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-zzahrae&layout=compact&hide=html,css" alt="Top languages" />
+</p>
