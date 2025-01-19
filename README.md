@@ -76,6 +76,5 @@
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-zzahrae&show_icons=true&locale=en" alt="fatima-zzahrae" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae&" alt="fatima-zzahrae" /></p>
 
