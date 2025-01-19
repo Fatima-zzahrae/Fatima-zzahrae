@@ -80,3 +80,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-zzahrae&layout=compact" alt="Top languages" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatima-zzahrae&show_icons=true&locale=en&layout=compact" alt="fatima-zzahrae" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatima-zzahrae&show_icons=true&locale=en" alt="fatima-zzahrae" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae&" alt="fatima-zzahrae" /></p>
