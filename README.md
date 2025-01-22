@@ -77,5 +77,5 @@
 <br/><br/>
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima-zzahrae" alt="fatima-zzahrae" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=fatima-zzahrae" alt="fatima-zzahrae" /></p>
 <br/><br/>
